@@ -1,0 +1,15 @@
+alacritty
+base-devel
+network-manager-applet
+networkmanager
+volumeicon
+ttf-sourcecodepro-nerd
+ttf-fantasque-nerd 
+ttf-font-awesome 
+ttf-iosevka-nerd 
+ttf-jetbrains-mono-nerd 
+ttf-joypixels 
+ttf-nerd-fonts-symbols-common 
+ttf-ubuntu-font-family 
+ttf-ubuntu-mono-nerd 
+ttf-ubuntu-nerd 

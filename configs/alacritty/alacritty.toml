@@ -1,0 +1,34 @@
+[font]
+size = 12.0
+
+[font.bold]
+family = "Source Code Pro"
+style = "Bold"
+
+[font.bold_italic]
+family = "Source Code Pro"
+style = "Bold Italic"
+
+[font.italic]
+family = "Source Code Pro"
+style = "Italic"
+
+[font.normal]
+family = "Source Code Pro"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 1
+
+[window]
+opacity=0.9
+[colors]
+transparent_background_colors=true
+[colors.primary]
+background="#121010"
+foreground="#ccc8c8"
+[cursor]
+style = { shape="Beam", blinking="Never" }
+
+

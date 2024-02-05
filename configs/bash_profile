@@ -1,0 +1,8 @@
+#
+# ~/.bash_profile
+#
+
+if [ -d "$HOME/.config/scripts" ] ; then
+    PATH="$HOME/.config/scripts:$PATH"
+fi
+[[ -f ~/.bashrc ]] && . ~/.bashrc
