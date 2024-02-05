@@ -1,4 +1,11 @@
 alacritty
+xorg
+sddm
+starship
+gnome-polkit
+picom
+libxft
+libxinerama
 base-devel
 network-manager-applet
 networkmanager
