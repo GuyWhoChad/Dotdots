@@ -13,7 +13,7 @@ mv bashrc ~/.bashrc
 mv bash_profile ~/.bash_profile
 #mv configs/dmenu ~/.config
 mv config/* -r ~/
-cd ~/.config/dwm
+cd ~/.config/dwm_w_flexipatch
 sudo make clean install
 git clone https://git.suckless.org/dmenu ~/.config/dmenu
 cd ~/.config/dmenu
