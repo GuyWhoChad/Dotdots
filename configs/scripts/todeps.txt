@@ -2,7 +2,8 @@ alacritty
 xorg
 sddm
 starship
-gnome-polkit
+polkit-gnome
+lxappearance
 picom
 libxft
 tmux
