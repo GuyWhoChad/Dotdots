@@ -5,6 +5,13 @@ starship
 gnome-polkit
 picom
 libxft
+tmux
+materia-gtk-theme
+papirus-icon-theme
+pcmanfm
+arch-wiki-docs
+archiso
+nitrogen
 libxinerama
 base-devel
 network-manager-applet
