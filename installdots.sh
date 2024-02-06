@@ -65,10 +65,10 @@ cp autostart/autostart.sh ~/.local/share/dwm
 mv configs/alacritty ~/.config/
 mv configs/dwm_w_flexipatch ~/.config/
 mv configs/scripts ~/
-mv bashrc ~/.bashrc
-mv bash_profile ~/.bash_profile
+mv configs/bashrc ~/.bashrc
+mv configs/bash_profile ~/.bash_profile
 #mv configs/dmenu ~/.config
-mv config/* -r ~/
+mv config/* ~/
 cd ~/.config/dwm_w_flexipatch
 sudo make clean install
 git clone https://git.suckless.org/dmenu ~/.config/dmenu
