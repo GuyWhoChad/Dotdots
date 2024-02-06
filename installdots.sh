@@ -57,7 +57,9 @@
 #fi
 #exit 1 
 echo "Welcome to my install script for my dotfiles, run at your own risk, no helps or issues will be answered!"
-sudo pacman -S $(cat configs/scripts/todeps.txt)
+sudo pacman -S --needed - < configs/scripts/todeps.txt
+# OPTIONAL DEPEDENCIES FOR MY SYSTEM
+# sudo pacman -S --needed - < configs/scripts/PERSONALDEPS.TXT
 sudo systemctl enable NetworkManager
 mkdir ~/.config
 mkdir ~/.local/share/dwm
